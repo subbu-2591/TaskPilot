@@ -2,7 +2,7 @@ import { useState,useEffect } from 'react';
 import Taskform from './Components/Taskform'
 import Tasklist from './Components/Tasklist'
 import Progresstracker from './Components/Progresstracker'
-import './Style.css'
+import './style.css'
 
 
 export default function App() {
